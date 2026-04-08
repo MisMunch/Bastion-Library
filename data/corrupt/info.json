@@ -1,0 +1,283 @@
+{
+  "id": "corrupt",
+  "title": "Corrupt",
+  "author": "Penelope Douglas",
+  "description": "",
+  "filename": "Corrupt - Penelope Douglas - Devils Night #1.epub",
+  "totalWords": 134960,
+  "totalPages": 135,
+  "totalChapters": 35,
+  "series": "Devil's Night",
+  "bookNumber": 1,
+  "totalBooksInSeries": 5,
+  "seriesStatus": "complete",
+  "allBooksInSeries": [
+    {
+      "number": 1,
+      "title": "Corrupt"
+    },
+    {
+      "number": 2,
+      "title": "Hideaway"
+    },
+    {
+      "number": 3,
+      "title": "Kill Switch"
+    },
+    {
+      "number": 4,
+      "title": "Nightfall"
+    },
+    {
+      "number": 5,
+      "title": "Fire Night"
+    }
+  ],
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 113,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 127,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 65,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 4589,
+      "pageCount": 5,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 4075,
+      "pageCount": 5,
+      "startPage": 9
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 4973,
+      "pageCount": 5,
+      "startPage": 14
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 4124,
+      "pageCount": 5,
+      "startPage": 19
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 7437,
+      "pageCount": 8,
+      "startPage": 24
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 5125,
+      "pageCount": 6,
+      "startPage": 32
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 2871,
+      "pageCount": 3,
+      "startPage": 38
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 6243,
+      "pageCount": 7,
+      "startPage": 41
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 7222,
+      "pageCount": 8,
+      "startPage": 48
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 6624,
+      "pageCount": 7,
+      "startPage": 56
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 4949,
+      "pageCount": 5,
+      "startPage": 63
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 3336,
+      "pageCount": 4,
+      "startPage": 68
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 3189,
+      "pageCount": 4,
+      "startPage": 72
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 3539,
+      "pageCount": 4,
+      "startPage": 76
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 5644,
+      "pageCount": 6,
+      "startPage": 80
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 3579,
+      "pageCount": 4,
+      "startPage": 86
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 5605,
+      "pageCount": 6,
+      "startPage": 90
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 3300,
+      "pageCount": 4,
+      "startPage": 96
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 2566,
+      "pageCount": 3,
+      "startPage": 100
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 3171,
+      "pageCount": 4,
+      "startPage": 103
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 2957,
+      "pageCount": 3,
+      "startPage": 107
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 2356,
+      "pageCount": 3,
+      "startPage": 110
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 3991,
+      "pageCount": 4,
+      "startPage": 113
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 5881,
+      "pageCount": 6,
+      "startPage": 117
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 8600,
+      "pageCount": 9,
+      "startPage": 123
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 2708,
+      "pageCount": 3,
+      "startPage": 132
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 3624,
+      "pageCount": 4,
+      "startPage": 135
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 4404,
+      "pageCount": 5,
+      "startPage": 139
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 2900,
+      "pageCount": 3,
+      "startPage": 144
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 4343,
+      "pageCount": 5,
+      "startPage": 147
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 628,
+      "pageCount": 1,
+      "startPage": 152
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 102,
+      "pageCount": 1,
+      "startPage": 153
+    }
+  ]
+}

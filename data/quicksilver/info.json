@@ -1,0 +1,383 @@
+{
+  "id": "quicksilver",
+  "title": "Quicksilver",
+  "author": "Callie Hart",
+  "description": "Do not *touch the sword. * ** Do not turn the key. ** ** Do not open the gate. ** In the land of the unforgiving desert, there isn’t much a girl wouldn’t do for a glass of water. Twenty-four-year-old Saeris Fane is good at keeping secrets. No one knows about the strange powers she possesses, or the fact that she has been picking pockets and stealing from the Undying Queen’s reservoirs for as long as she can remember. But a secret is like a knot. Sooner or later, it is bound to come undone. When ",
+  "filename": "Quicksilver - Callie Hart - Fae and Alchemy #1.epub",
+  "totalWords": 197061,
+  "totalPages": 198,
+  "totalChapters": 51,
+  "series": "Fae & Alchemy",
+  "bookNumber": 1,
+  "totalBooksInSeries": 2,
+  "seriesStatus": "ongoing",
+  "allBooksInSeries": [
+    {
+      "number": 1,
+      "title": "Quicksilver"
+    },
+    {
+      "number": 2,
+      "title": "Nightsong"
+    }
+  ],
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 51,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 140,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Pronunciation Guide",
+      "wordCount": 65,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "1. The Climb",
+      "wordCount": 2960,
+      "pageCount": 3,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "2. Glassmaker",
+      "wordCount": 6509,
+      "pageCount": 7,
+      "startPage": 7
+    },
+    {
+      "index": 6,
+      "title": "3. The Kindest Purpose",
+      "wordCount": 4430,
+      "pageCount": 5,
+      "startPage": 14
+    },
+    {
+      "index": 7,
+      "title": "4. The Price",
+      "wordCount": 4743,
+      "pageCount": 5,
+      "startPage": 19
+    },
+    {
+      "index": 8,
+      "title": "5. Heretic",
+      "wordCount": 4258,
+      "pageCount": 5,
+      "startPage": 24
+    },
+    {
+      "index": 9,
+      "title": "6. Everlayne",
+      "wordCount": 5510,
+      "pageCount": 6,
+      "startPage": 29
+    },
+    {
+      "index": 10,
+      "title": "7. The Dog",
+      "wordCount": 7241,
+      "pageCount": 8,
+      "startPage": 35
+    },
+    {
+      "index": 11,
+      "title": "8. Alchemist",
+      "wordCount": 4253,
+      "pageCount": 5,
+      "startPage": 43
+    },
+    {
+      "index": 12,
+      "title": "9. Righteous Purpose",
+      "wordCount": 4365,
+      "pageCount": 5,
+      "startPage": 48
+    },
+    {
+      "index": 13,
+      "title": "10. Crumbs",
+      "wordCount": 5803,
+      "pageCount": 6,
+      "startPage": 53
+    },
+    {
+      "index": 14,
+      "title": "11. Swallow",
+      "wordCount": 3830,
+      "pageCount": 4,
+      "startPage": 59
+    },
+    {
+      "index": 15,
+      "title": "12. Fox",
+      "wordCount": 6203,
+      "pageCount": 7,
+      "startPage": 63
+    },
+    {
+      "index": 16,
+      "title": "13. Duress",
+      "wordCount": 5985,
+      "pageCount": 6,
+      "startPage": 70
+    },
+    {
+      "index": 17,
+      "title": "14. The Fine Print",
+      "wordCount": 2796,
+      "pageCount": 3,
+      "startPage": 76
+    },
+    {
+      "index": 18,
+      "title": "15. Sarrush",
+      "wordCount": 6338,
+      "pageCount": 7,
+      "startPage": 79
+    },
+    {
+      "index": 19,
+      "title": "16. Shadow Gate",
+      "wordCount": 4456,
+      "pageCount": 5,
+      "startPage": 86
+    },
+    {
+      "index": 20,
+      "title": "17. Cahlish",
+      "wordCount": 3075,
+      "pageCount": 4,
+      "startPage": 91
+    },
+    {
+      "index": 21,
+      "title": "18. Crucible",
+      "wordCount": 6704,
+      "pageCount": 7,
+      "startPage": 95
+    },
+    {
+      "index": 22,
+      "title": "19. Bones And All",
+      "wordCount": 8625,
+      "pageCount": 9,
+      "startPage": 102
+    },
+    {
+      "index": 23,
+      "title": "20. Ammontraíeth",
+      "wordCount": 8278,
+      "pageCount": 9,
+      "startPage": 111
+    },
+    {
+      "index": 24,
+      "title": "21. Ice Breaker",
+      "wordCount": 1365,
+      "pageCount": 2,
+      "startPage": 120
+    },
+    {
+      "index": 25,
+      "title": "22. The Itch",
+      "wordCount": 6373,
+      "pageCount": 7,
+      "startPage": 122
+    },
+    {
+      "index": 26,
+      "title": "23. Ticking Clock",
+      "wordCount": 3233,
+      "pageCount": 4,
+      "startPage": 129
+    },
+    {
+      "index": 27,
+      "title": "24. Lupo Proelia",
+      "wordCount": 4650,
+      "pageCount": 5,
+      "startPage": 133
+    },
+    {
+      "index": 28,
+      "title": "25. Ballard",
+      "wordCount": 6325,
+      "pageCount": 7,
+      "startPage": 138
+    },
+    {
+      "index": 29,
+      "title": "26. Ash And Cinders",
+      "wordCount": 3532,
+      "pageCount": 4,
+      "startPage": 145
+    },
+    {
+      "index": 30,
+      "title": "27. Marked",
+      "wordCount": 4862,
+      "pageCount": 5,
+      "startPage": 149
+    },
+    {
+      "index": 31,
+      "title": "28. Just Ask",
+      "wordCount": 2729,
+      "pageCount": 3,
+      "startPage": 154
+    },
+    {
+      "index": 32,
+      "title": "29. Ballad Of The Ajun Gate",
+      "wordCount": 3817,
+      "pageCount": 4,
+      "startPage": 157
+    },
+    {
+      "index": 33,
+      "title": "30. Swear It",
+      "wordCount": 3263,
+      "pageCount": 4,
+      "startPage": 161
+    },
+    {
+      "index": 34,
+      "title": "31. The Darn",
+      "wordCount": 3679,
+      "pageCount": 4,
+      "startPage": 165
+    },
+    {
+      "index": 35,
+      "title": "32. Taladaius",
+      "wordCount": 1869,
+      "pageCount": 2,
+      "startPage": 169
+    },
+    {
+      "index": 36,
+      "title": "33. Blood In Thanks",
+      "wordCount": 2009,
+      "pageCount": 3,
+      "startPage": 171
+    },
+    {
+      "index": 37,
+      "title": "34. A Secret",
+      "wordCount": 4267,
+      "pageCount": 5,
+      "startPage": 174
+    },
+    {
+      "index": 38,
+      "title": "35. Oracle",
+      "wordCount": 3433,
+      "pageCount": 4,
+      "startPage": 179
+    },
+    {
+      "index": 39,
+      "title": "36. Iseabail",
+      "wordCount": 2297,
+      "pageCount": 3,
+      "startPage": 183
+    },
+    {
+      "index": 40,
+      "title": "37. Much Sharper",
+      "wordCount": 4452,
+      "pageCount": 5,
+      "startPage": 186
+    },
+    {
+      "index": 41,
+      "title": "38. Martyrs For Friends",
+      "wordCount": 3501,
+      "pageCount": 4,
+      "startPage": 191
+    },
+    {
+      "index": 42,
+      "title": "39. Annorath Mor!",
+      "wordCount": 2597,
+      "pageCount": 3,
+      "startPage": 195
+    },
+    {
+      "index": 43,
+      "title": "40. Introductions",
+      "wordCount": 1873,
+      "pageCount": 2,
+      "startPage": 198
+    },
+    {
+      "index": 44,
+      "title": "41. Gillethrye",
+      "wordCount": 2686,
+      "pageCount": 3,
+      "startPage": 200
+    },
+    {
+      "index": 45,
+      "title": "42. That’ll Cost You",
+      "wordCount": 6487,
+      "pageCount": 7,
+      "startPage": 203
+    },
+    {
+      "index": 46,
+      "title": "43. Another Way",
+      "wordCount": 2898,
+      "pageCount": 3,
+      "startPage": 210
+    },
+    {
+      "index": 47,
+      "title": "44. Axis",
+      "wordCount": 3843,
+      "pageCount": 4,
+      "startPage": 213
+    },
+    {
+      "index": 48,
+      "title": "45. Choose Wisely",
+      "wordCount": 4063,
+      "pageCount": 5,
+      "startPage": 217
+    },
+    {
+      "index": 49,
+      "title": "Get Inside Fisher’s head!",
+      "wordCount": 162,
+      "pageCount": 1,
+      "startPage": 222
+    },
+    {
+      "index": 50,
+      "title": "FOLLOW CALLIE ON INSTAGRAM",
+      "wordCount": 111,
+      "pageCount": 1,
+      "startPage": 223
+    },
+    {
+      "index": 51,
+      "title": "JOIN CALLIE’S READER GROUP",
+      "wordCount": 67,
+      "pageCount": 1,
+      "startPage": 224
+    }
+  ]
+}

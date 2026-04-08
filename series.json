@@ -1,0 +1,199 @@
+{
+  "series": [
+    {
+      "name": "Born in Blood Mafia Chronicles",
+      "author": "Cora Reilly",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Bound by Honor" },
+        { "number": 2, "title": "Bound by Duty" },
+        { "number": 3, "title": "Bound by Hatred" },
+        { "number": 4, "title": "Bound by Temptation" },
+        { "number": 5, "title": "Bound by Vengeance" },
+        { "number": 6, "title": "Bound by Love" }
+      ]
+    },
+    {
+      "name": "The Ruinous Love Trilogy",
+      "author": "Brynne Weaver",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Butcher & Blackbird" },
+        { "number": 2, "title": "Leather & Lark" },
+        { "number": 3, "title": "Lark & Wren" }
+      ]
+    },
+    {
+      "name": "Cat and Mouse Duet",
+      "author": "H.D. Carlton",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Haunting Adeline" },
+        { "number": 2, "title": "Hunting Adeline" }
+      ]
+    },
+    {
+      "name": "Dark Olympus",
+      "author": "Katee Robert",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Neon Gods" },
+        { "number": 2, "title": "Electric Idol" },
+        { "number": 3, "title": "Wicked Beauty" },
+        { "number": 4, "title": "Radiant Sin" },
+        { "number": 5, "title": "Cruel Seduction" },
+        { "number": 6, "title": "Twin Daggers" }
+      ]
+    },
+    {
+      "name": "Devil's Night",
+      "author": "Penelope Douglas",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Corrupt" },
+        { "number": 2, "title": "Hideaway" },
+        { "number": 3, "title": "Kill Switch" },
+        { "number": 4, "title": "Nightfall" },
+        { "number": 5, "title": "Fire Night" }
+      ]
+    },
+    {
+      "name": "Wrecked Roommates",
+      "author": "Kelsie Rae",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Model Behavior" },
+        { "number": 2, "title": "Forbidden Lyrics" },
+        { "number": 3, "title": "Ruthless Agenda" },
+        { "number": 4, "title": "Stolen Seconds" }
+      ]
+    },
+    {
+      "name": "Fae & Alchemy",
+      "author": "Callie Hart",
+      "status": "ongoing",
+      "books": [
+        { "number": 1, "title": "Quicksilver" },
+        { "number": 2, "title": "Nightsong" }
+      ]
+    },
+    {
+      "name": "The Mavericks",
+      "author": "Kate Crew",
+      "status": "ongoing",
+      "books": [
+        { "number": 1, "title": "Rook & Rebel" }
+      ]
+    },
+    {
+      "name": "Firsts In The City",
+      "author": "Jenn McMahon",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "That First Night" },
+        { "number": 2, "title": "That First Kiss" },
+        { "number": 3, "title": "That First Touch" }
+      ]
+    },
+    {
+      "name": "Daughter of Sherlock Holmes Mysteries",
+      "author": "Leonard Goldberg",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "The Daughter of Sherlock Holmes" },
+        { "number": 2, "title": "A Study in Treason" },
+        { "number": 3, "title": "The Disappearance of Alistair Ainsworth" },
+        { "number": 4, "title": "The Blue Diamond of the Crown" },
+        { "number": 5, "title": "The Abduction of Pretty Penny" },
+        { "number": 6, "title": "The Art of Deception" }
+      ]
+    },
+    {
+      "name": "Lights Out",
+      "author": "Navessa Allen",
+      "status": "ongoing",
+      "books": [
+        { "number": 1, "title": "Lights Out" }
+      ]
+    },
+    {
+      "name": "The Empyrean",
+      "author": "Rebecca Yarros",
+      "status": "ongoing",
+      "books": [
+        { "number": 1, "title": "Fourth Wing" },
+        { "number": 2, "title": "Iron Flame" },
+        { "number": 3, "title": "Onyx Storm" }
+      ]
+    },
+    {
+      "name": "Hades x Persephone",
+      "author": "Scarlett St. Clair",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "A Touch of Darkness" },
+        { "number": 2, "title": "A Touch of Ruin" },
+        { "number": 3, "title": "A Touch of Malice" },
+        { "number": 4, "title": "A Touch of Chaos" }
+      ]
+    },
+    {
+      "name": "Tarnished Empire",
+      "author": "Shain Rose",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "Corrupted Chaos" },
+        { "number": 2, "title": "Fractured Freedom" },
+        { "number": 3, "title": "Shattered Vows" }
+      ]
+    },
+    {
+      "name": "Legacy of Gods",
+      "author": "Rina Kent",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "God of Malice" },
+        { "number": 2, "title": "God of Pain" },
+        { "number": 3, "title": "God of Wrath" },
+        { "number": 4, "title": "God of Ruin" },
+        { "number": 5, "title": "God of Fury" },
+        { "number": 6, "title": "God of War" }
+      ]
+    },
+    {
+      "name": "L.O.R.D.S.",
+      "author": "Shantel Tessier",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "The Ritual" },
+        { "number": 2, "title": "The Sinner" },
+        { "number": 3, "title": "The Sacrifice" },
+        { "number": 4, "title": "Sabotage" },
+        { "number": 5, "title": "Carnage" },
+        { "number": 6, "title": "Madness" }
+      ]
+    },
+    {
+      "name": "Sinners Duet",
+      "author": "Sophie Lark",
+      "status": "complete",
+      "books": [
+        { "number": 1, "title": "There Are No Saints" },
+        { "number": 2, "title": "There Is No Devil" }
+      ]
+    },
+    {
+      "name": "Ride or Die Romances",
+      "author": "Lauren Biel",
+      "status": "ongoing",
+      "books": [
+        { "number": 1, "title": "Driving My Hunger" },
+        { "number": 2, "title": "Driving My Desire" },
+        { "number": 3, "title": "Driving My Obsession" }
+      ]
+    }
+  ],
+  "standalones": [
+    { "title": "Powerful Deception", "author": "Jocelyne Soto" }
+  ]
+}

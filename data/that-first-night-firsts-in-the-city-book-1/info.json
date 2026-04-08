@@ -1,0 +1,338 @@
+{
+  "id": "that-first-night-firsts-in-the-city-book-1",
+  "title": "That First Night (Firsts In The City Book 1)",
+  "author": "Jenn McMahon",
+  "description": "",
+  "filename": "That First Night - Jenn McMahon - Firsts In The City #1.epub",
+  "totalWords": 105847,
+  "totalPages": 106,
+  "totalChapters": 44,
+  "series": "Firsts In The City",
+  "bookNumber": 1,
+  "totalBooksInSeries": 3,
+  "seriesStatus": "complete",
+  "allBooksInSeries": [
+    {
+      "number": 1,
+      "title": "That First Night"
+    },
+    {
+      "number": 2,
+      "title": "That First Kiss"
+    },
+    {
+      "number": 3,
+      "title": "That First Touch"
+    }
+  ],
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 101,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 32,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 61,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 80,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 1977,
+      "pageCount": 2,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 1706,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 2925,
+      "pageCount": 3,
+      "startPage": 9
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 2215,
+      "pageCount": 3,
+      "startPage": 12
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 2887,
+      "pageCount": 3,
+      "startPage": 15
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 1315,
+      "pageCount": 2,
+      "startPage": 18
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 2364,
+      "pageCount": 3,
+      "startPage": 20
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 1473,
+      "pageCount": 2,
+      "startPage": 23
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 1703,
+      "pageCount": 2,
+      "startPage": 25
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 2680,
+      "pageCount": 3,
+      "startPage": 27
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 1659,
+      "pageCount": 2,
+      "startPage": 30
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 1473,
+      "pageCount": 2,
+      "startPage": 32
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 2451,
+      "pageCount": 3,
+      "startPage": 34
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 1873,
+      "pageCount": 2,
+      "startPage": 37
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 2418,
+      "pageCount": 3,
+      "startPage": 39
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 1665,
+      "pageCount": 2,
+      "startPage": 42
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 4344,
+      "pageCount": 5,
+      "startPage": 44
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 3916,
+      "pageCount": 4,
+      "startPage": 49
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 1543,
+      "pageCount": 2,
+      "startPage": 53
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 2927,
+      "pageCount": 3,
+      "startPage": 55
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 5740,
+      "pageCount": 6,
+      "startPage": 58
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 4487,
+      "pageCount": 5,
+      "startPage": 64
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 3454,
+      "pageCount": 4,
+      "startPage": 69
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 4729,
+      "pageCount": 5,
+      "startPage": 73
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 5878,
+      "pageCount": 6,
+      "startPage": 78
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 3063,
+      "pageCount": 4,
+      "startPage": 84
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 4745,
+      "pageCount": 5,
+      "startPage": 88
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 1467,
+      "pageCount": 2,
+      "startPage": 93
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 2927,
+      "pageCount": 3,
+      "startPage": 95
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 2644,
+      "pageCount": 3,
+      "startPage": 98
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 3267,
+      "pageCount": 4,
+      "startPage": 101
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 3061,
+      "pageCount": 4,
+      "startPage": 105
+    },
+    {
+      "index": 37,
+      "title": "Chapter 37",
+      "wordCount": 2581,
+      "pageCount": 3,
+      "startPage": 109
+    },
+    {
+      "index": 38,
+      "title": "Chapter 38",
+      "wordCount": 1618,
+      "pageCount": 2,
+      "startPage": 112
+    },
+    {
+      "index": 39,
+      "title": "Chapter 39",
+      "wordCount": 2128,
+      "pageCount": 3,
+      "startPage": 114
+    },
+    {
+      "index": 40,
+      "title": "Chapter 40",
+      "wordCount": 2361,
+      "pageCount": 3,
+      "startPage": 117
+    },
+    {
+      "index": 41,
+      "title": "Chapter 41",
+      "wordCount": 4908,
+      "pageCount": 5,
+      "startPage": 120
+    },
+    {
+      "index": 42,
+      "title": "Chapter 42",
+      "wordCount": 811,
+      "pageCount": 1,
+      "startPage": 125
+    },
+    {
+      "index": 43,
+      "title": "Chapter 43",
+      "wordCount": 111,
+      "pageCount": 1,
+      "startPage": 126
+    },
+    {
+      "index": 44,
+      "title": "Chapter 44",
+      "wordCount": 79,
+      "pageCount": 1,
+      "startPage": 127
+    }
+  ]
+}

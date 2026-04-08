@@ -42,23 +42,29 @@ function findSeriesForBook(title) {
   const normalise = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
   const normTitle = normalise(title);
 
+  // Collect all matches, then pick the longest (most specific) one
+  let bestMatch = null;
+  let bestLength = 0;
+
   for (const series of seriesData.series) {
     for (const book of series.books) {
       const normBook = normalise(book.title);
-      // Match if titles are equal, or if one contains the other
       if (normTitle === normBook || normTitle.startsWith(normBook) || normTitle.includes(normBook)) {
-        return {
-          seriesName: series.name,
-          seriesAuthor: series.author,
-          seriesStatus: series.status,
-          bookNumber: book.number,
-          totalBooksInSeries: series.books.length,
-          allBooksInSeries: series.books.map(b => ({ number: b.number, title: b.title })),
-        };
+        if (normBook.length > bestLength) {
+          bestLength = normBook.length;
+          bestMatch = {
+            seriesName: series.name,
+            seriesAuthor: series.author,
+            seriesStatus: series.status,
+            bookNumber: book.number,
+            totalBooksInSeries: series.books.length,
+            allBooksInSeries: series.books.map(b => ({ number: b.number, title: b.title })),
+          };
+        }
       }
     }
   }
-  return null;
+  return bestMatch;
 }
 
 async function writeSeriesCatalog(libraryBookTitles) {

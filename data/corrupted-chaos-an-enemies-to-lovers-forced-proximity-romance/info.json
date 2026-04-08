@@ -7,30 +7,22 @@
   "totalWords": 100175,
   "totalPages": 101,
   "totalChapters": 39,
-  "series": "Devil's Night",
+  "series": "Tarnished Empire",
   "bookNumber": 1,
-  "totalBooksInSeries": 5,
+  "totalBooksInSeries": 3,
   "seriesStatus": "complete",
   "allBooksInSeries": [
     {
       "number": 1,
-      "title": "Corrupt"
+      "title": "Corrupted Chaos"
     },
     {
       "number": 2,
-      "title": "Hideaway"
+      "title": "Fractured Freedom"
     },
     {
       "number": 3,
-      "title": "Kill Switch"
-    },
-    {
-      "number": 4,
-      "title": "Nightfall"
-    },
-    {
-      "number": 5,
-      "title": "Fire Night"
+      "title": "Shattered Vows"
     }
   ],
   "chapters": [

@@ -73,9 +73,9 @@
       "totalWords": 100175,
       "totalPages": 101,
       "totalChapters": 39,
-      "series": "Devil's Night",
+      "series": "Tarnished Empire",
       "bookNumber": 1,
-      "totalBooksInSeries": 5,
+      "totalBooksInSeries": 3,
       "seriesStatus": "complete"
     },
     {
@@ -374,5 +374,5 @@
       "seriesStatus": "complete"
     }
   ],
-  "updatedAt": "2026-04-08T01:11:33.985Z"
+  "updatedAt": "2026-04-08T05:11:36.425Z"
 }

@@ -194,6 +194,9 @@
     }
   ],
   "standalones": [
-    { "title": "Powerful Deception", "author": "Jocelyne Soto" }
+    { "title": "Powerful Deception", "author": "Jocelyne Soto" },
+    { "title": "A Gentleman in Moscow", "author": "Amor Towles" },
+    { "title": "Educated", "author": "Tara Westover" },
+    { "title": "Pachinko", "author": "Min Jin Lee" }
   ]
 }
